@@ -15,8 +15,12 @@ void quadratic(int a, int b, int c, double& root1, double& root2){
 }
 
 int main() {
-    double root1,root2;
-    quadratic(1,-3,-4,root1,root2);
-    cout << "root1:"<< root1<<" root2:" << root2 << endl;
+    string name = "Marty stepp";
+    name = toUpperCase(name);
+    cout<<name<<endl;
+
+//    double root1,root2;
+//   quadratic(1,-3,-4,root1,root2);
+//    cout << "root1:"<< root1<<" root2:" << root2 << endl;
     return 0;
 }
