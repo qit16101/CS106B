@@ -49,5 +49,5 @@ INPUT(
 ./debug\sound.o
 ./debug\strlib.o
 ./debug\timer.o
-./debug\hello.o
+./debug\quadratic.o
 );
