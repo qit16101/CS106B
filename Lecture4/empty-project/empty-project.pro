@@ -178,7 +178,8 @@ DISTFILES *= ""
 DISTFILES = ""
 HEADERS *= ""
 HEADERS = ""
-SOURCES *= ""
+SOURCES *= "" \
+    src/queues.cpp
 SOURCES = ""
 
 # include various source .cpp files and header .h files in the build process
